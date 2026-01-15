@@ -1,4 +1,4 @@
-Project Manager: Alice Smith Yadav
+Project Manager: elyse perrry
 Frontend: Bob
 Backend: Charlie
 Designer: Dave
