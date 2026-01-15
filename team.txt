@@ -1,0 +1,3 @@
+Project Manager: Alice
+Frontend: Bob
+Backend: Charlie
