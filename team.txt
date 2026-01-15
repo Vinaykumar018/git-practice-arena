@@ -1,4 +1,4 @@
-Project Manager: Alice
+Project Manager: Alice Smith
 Frontend: Bob
 Backend: Charlie
 Designer: Dave
